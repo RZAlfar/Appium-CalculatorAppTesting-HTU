@@ -11,10 +11,10 @@
     - Android Studio VS device
 
 
-###### Instructor : Abdelraheem Alsaqqa 
+###### Instructor : [Abdelraheem Alsaqqa](https://github.com/Asaqa988)
 ###### Date : 5/May/2023
 
-## 🔗 Links
+## 🔗 My LinkedIn Razan Alfar
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/razan-alfar/)
 
 

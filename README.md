@@ -8,7 +8,7 @@
     - Appium Server
     - Selenium WebDriver
     - Appium Inspector
-    - Android Studio VS device
+    - Android Studio virtual device
 
 
 ###### Instructor : [Abdelraheem Alsaqqa](https://github.com/Asaqa988)

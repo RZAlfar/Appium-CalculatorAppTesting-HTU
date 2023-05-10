@@ -1,5 +1,5 @@
-# Calaculator App Automation Testing 
-- Al Hussein Technical University (HTU)
+# Calaculator App Automation Testing  
+Al Hussein Technical University (HTU)
 
 ### About the project
  - The project is about automating test scenarios using selenium+appium
